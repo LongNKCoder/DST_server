@@ -1,0 +1,51 @@
+[00:02:08]: [Join Announcement] I'm back bitches
+[00:05:55]: [Vote Announcement] regenerate passed
+[00:06:44]: [Leave Announcement] I'm back bitches
+[01:04:14]: [Join Announcement] I'm back bitches
+[01:33:51]: [Leave Announcement] I'm back bitches
+[01:44:17]: [Join Announcement] I'm back bitches
+[01:44:56]: [Announcement] I'm back bitches   successfully entered game   Completed Achievement [New Beginning]
+[01:44:59]: [Join Announcement] nguoi ve tu sao hoa
+[01:45:28]: [Announcement] nguoi ve tu sao hoa   successfully entered game   Completed Achievement [New Beginning]
+[01:50:05]: [Announcement] I'm back bitches   ate food for the first time   Completed Achievement [First Bite]
+[01:55:08]: [Announcement] nguoi ve tu sao hoa   ate food for the first time   Completed Achievement [First Bite]
+[02:01:12]: [Leave Announcement] nguoi ve tu sao hoa
+[02:01:49]: [Announcement] I'm back bitches   dodged all attacks and dealt 9000 damage   Completed Achievement [Dodgemaster]
+[02:13:42]: [Join Announcement] nguoi ve tu sao hoa
+[02:18:25]: [Death Announcement] nguoi ve tu sao hoa was killed by Spider. She became a spooky ghost!
+[02:18:29]: [Vote Announcement] regenerate passed
+[02:19:24]: [Announcement] I'm back bitches   successfully entered game   Completed Achievement [New Beginning]
+[02:19:26]: [Announcement] nguoi ve tu sao hoa   successfully entered game   Completed Achievement [New Beginning]
+[02:21:55]: [Announcement] I'm back bitches   ate food for the first time   Completed Achievement [First Bite]
+[02:25:20]: [Announcement] nguoi ve tu sao hoa   ate food for the first time   Completed Achievement [First Bite]
+[02:28:20]: [Skin Announcement] I'm back bitches feet_warly_ice
+[02:47:02]: [Death Announcement] nguoi ve tu sao hoa was killed by Shenanigans. She became a spooky ghost!
+[02:47:22]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[02:48:32]: [Death Announcement] nguoi ve tu sao hoa was killed by Treeguard. She became a spooky ghost!
+[02:49:16]: [Announcement] I'm back bitches   dodged all attacks and dealt 9000 damage   Completed Achievement [Dodgemaster]
+[02:50:09]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[02:50:37]: [Death Announcement] nguoi ve tu sao hoa was killed by Treeguard. She became a spooky ghost!
+[02:51:51]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[03:09:49]: [Death Announcement] I'm back bitches was killed by Starvation. He became a spooky ghost!
+[03:09:58]: [Resurrect Announcement] I'm back bitches was resurrected by Shenanigans.
+[03:10:45]: [Death Announcement] nguoi ve tu sao hoa was killed by Pig Man. She became a spooky ghost!
+[03:12:23]: [Leave Announcement] nguoi ve tu sao hoa
+[03:13:08]: [Join Announcement] nguoi ve tu sao hoa
+[03:13:15]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[03:17:23]: [Announcement] I'm back bitches   had a clear mind for 30 minutes   Completed Achievement [Sophisticated]
+[03:29:01]: [Skin Announcement] I'm back bitches body_flannel_green_napier
+[03:29:09]: [Skin Announcement] nguoi ve tu sao hoa hand_wendy_victorian
+[03:35:04]: [Announcement] nguoi ve tu sao hoa   had a clear mind for 30 minutes   Completed Achievement [Sophisticated]
+[03:48:43]: [Leave Announcement] I'm back bitches
+[03:49:26]: [Join Announcement] I'm back bitches
+[03:52:14]: [Leave Announcement] nguoi ve tu sao hoa
+[03:53:45]: [Join Announcement] nguoi ve tu sao hoa
+[04:02:45]: [Leave Announcement] I'm back bitches
+[04:03:56]: [Join Announcement] I'm back bitches
+[04:04:13]: [Death Announcement] nguoi ve tu sao hoa was killed by Spider. She became a spooky ghost!
+[04:04:53]: [Death Announcement] I'm back bitches was killed by Spider. He became a spooky ghost!
+[04:04:59]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[04:05:16]: [Resurrect Announcement] I'm back bitches was resurrected by Shenanigans.
+[04:09:05]: [Death Announcement] nguoi ve tu sao hoa was killed by Spider Queen. She became a spooky ghost!
+[04:12:38]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[04:18:46]: [Leave Announcement] nguoi ve tu sao hoa

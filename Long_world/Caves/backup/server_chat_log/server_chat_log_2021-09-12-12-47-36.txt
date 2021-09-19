@@ -1,0 +1,54 @@
+[00:02:06]: [Join Announcement] I'm back bitches
+[00:02:43]: [Death Announcement] I'm back bitches was killed by Krampus. He became a spooky ghost!
+[00:03:52]: [Join Announcement] nguoi ve tu sao hoa
+[00:04:32]: [Resurrect Announcement] I'm back bitches was resurrected by Shenanigans.
+[00:15:29]: [Announcement] I'm back bitches   fell asleep   Completed Achievement [Badger Lullaby]
+[00:20:52]: [Announcement] I'm back bitches   got struck by a lightning   Completed Achievement [Crank]
+[00:21:52]: [Announcement] I'm back bitches   drowned while trying to swim   Completed Achievement [Swimming?]
+[00:24:26]: [Leave Announcement] I'm back bitches
+[00:25:30]: [Join Announcement] I'm back bitches
+[00:25:40]: [Leave Announcement] I'm back bitches
+[00:26:49]: [Join Announcement] I'm back bitches
+[00:27:23]: [Death Announcement] nguoi ve tu sao hoa was killed by Goose. She became a spooky ghost!
+[00:27:33]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[00:29:35]: [Death Announcement] nguoi ve tu sao hoa was killed by Goose. She became a spooky ghost!
+[00:29:48]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[00:32:41]: [Death Announcement] nguoi ve tu sao hoa was killed by Mosling. She became a spooky ghost!
+[00:33:03]: [Death Announcement] I'm back bitches was killed by Mosling. He became a spooky ghost!
+[00:33:12]: [Resurrect Announcement] I'm back bitches was resurrected by Fire Pit.
+[00:33:24]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[00:33:24]: [Announcement] I'm back bitches   had no hunger for 30 minutes   Completed Achievement [Glutton]
+[00:36:27]: [Announcement] nguoi ve tu sao hoa   took over 3000 damage   Completed Achievement [Tank]
+[00:37:32]: [Death Announcement] nguoi ve tu sao hoa was killed by Freezing. She became a spooky ghost!
+[00:37:39]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[00:48:32]: [Death Announcement] nguoi ve tu sao hoa was killed by Pig Man. She became a spooky ghost!
+[00:48:51]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[00:50:22]: [Skin Announcement] I'm back bitches body_flannel_blue_snowbird
+[00:50:50]: [Death Announcement] nguoi ve tu sao hoa was killed by Spider. She became a spooky ghost!
+[00:55:01]: [Announcement] I'm back bitches   made at least 100 Crockpot dishes   Completed Achievement [Culinary Chef]
+[00:56:45]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[01:01:31]: [Death Announcement] nguoi ve tu sao hoa was killed by Darkness. She became a spooky ghost!
+[01:01:31]: [Announcement] nguoi ve tu sao hoa   got killed by Charlie   Completed Achievement [Noobish Newbie]
+[01:03:08]: [Death Announcement] I'm back bitches was killed by Shenanigans. He became a spooky ghost!
+[01:03:13]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[01:03:13]: [Resurrect Announcement] I'm back bitches was resurrected by Shenanigans.
+[01:06:15]: [Skin Announcement] nguoi ve tu sao hoa body_tweedvest_grey_steel
+[01:17:49]: [Announcement] nguoi ve tu sao hoa   had no hunger for 30 minutes   Completed Achievement [Glutton]
+[01:19:46]: [Death Announcement] nguoi ve tu sao hoa was killed by Spider. She became a spooky ghost!
+[01:20:22]: [Leave Announcement] nguoi ve tu sao hoa
+[01:21:37]: [Leave Announcement] I'm back bitches
+[01:21:43]: [Join Announcement] nguoi ve tu sao hoa
+[01:22:17]: [Join Announcement] I'm back bitches
+[01:22:32]: [Say] (KU_vCuBTZQd) I'm back bitches: alo
+[01:22:45]: [Say] (KU_MAFS6rU6) nguoi ve tu sao hoa: sao vay
+[01:22:51]: [Say] (KU_vCuBTZQd) I'm back bitches: ko goi dc
+[01:22:56]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[01:23:08]: [Say] (KU_MAFS6rU6) nguoi ve tu sao hoa: bi mat ket noi ho
+[01:23:16]: [Say] (KU_vCuBTZQd) I'm back bitches: ben discord kia
+[01:23:58]: [Death Announcement] nguoi ve tu sao hoa was killed by Spider. She became a spooky ghost!
+[01:24:13]: [Leave Announcement] nguoi ve tu sao hoa
+[01:25:06]: [Vote Announcement] rollback passed
+[01:25:09]: [Join Announcement] nguoi ve tu sao hoa
+[01:49:56]: [Skin Announcement] I'm back bitches hand_shortgloves_purple_violet
+[01:53:15]: [Death Announcement] nguoi ve tu sao hoa was killed by Spider. She became a spooky ghost!
+[01:53:39]: [Leave Announcement] nguoi ve tu sao hoa

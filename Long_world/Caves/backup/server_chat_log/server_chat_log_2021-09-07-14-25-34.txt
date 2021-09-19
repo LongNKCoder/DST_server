@@ -1,0 +1,18 @@
+[00:01:58]: [Join Announcement] I'm back bitches
+[00:06:06]: [Announcement] I'm back bitches   successfully entered game   Completed Achievement [New Beginning]
+[00:06:16]: [Join Announcement] nguoi ve tu sao hoa
+[00:06:47]: [Announcement] nguoi ve tu sao hoa   successfully entered game   Completed Achievement [New Beginning]
+[00:08:10]: [Announcement] I'm back bitches   ate food for the first time   Completed Achievement [First Bite]
+[00:09:53]: [Announcement] nguoi ve tu sao hoa   ate food for the first time   Completed Achievement [First Bite]
+[00:22:19]: [Leave Announcement] I'm back bitches
+[00:23:02]: [Join Announcement] I'm back bitches
+[00:25:29]: [Death Announcement] nguoi ve tu sao hoa was killed by Hound. She became a spooky ghost!
+[00:25:42]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[00:30:40]: [Announcement] I'm back bitches   dodged all attacks and dealt 9000 damage   Completed Achievement [Dodgemaster]
+[00:39:14]: [Skin Announcement] I'm back bitches hand_willow_victorian
+[00:51:18]: [Death Announcement] nguoi ve tu sao hoa was killed by Merm. She became a spooky ghost!
+[00:55:47]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[01:01:24]: [Death Announcement] nguoi ve tu sao hoa was killed by Darkness. She became a spooky ghost!
+[01:01:24]: [Announcement] nguoi ve tu sao hoa   got killed by Charlie   Completed Achievement [Noobish Newbie]
+[01:02:12]: [Resurrect Announcement] nguoi ve tu sao hoa was resurrected by Skeleton.
+[01:02:29]: [Leave Announcement] I'm back bitches
